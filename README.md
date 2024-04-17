@@ -1,12 +1,11 @@
 # Parsa Langari
 
-Welcome to my GitHub! I'm Parsa, a Software Engineering student at McGill University, passionate about building solutions that enhance human-computer interactions and streamline processes.
+Hi! I'm Parsa, a Software Engineering student at McGill University, passionate about building solutions.
 
 ## About Me
 
 - **🎓 Education:** B.Eng. in Software Engineering, McGill University, Expected Graduation May 2025.
 - **👔 Experience:** Internships at ThirdBridge, Autodesk, and Ubisoft Montréal.
-- **🏆 Awards & Involvements:** VP External at Google Developers Student Club @ McGill (400 active members), recipient of a 2'000 scholarship from Unifor, Winner of Best Hacks for Businesses @ McGill AI Society (MAIS) Hackathon.
 - **🌐 Social:** [LinkedIn](https://www.linkedin.com/in/parsa-langari/)
 
 ## Skills
