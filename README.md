@@ -6,6 +6,7 @@ Welcome to my GitHub! I'm Parsa, a Software Engineering student at McGill Univer
 
 - **🎓 Education:** B.Eng. in Software Engineering, McGill University, Expected Graduation May 2025.
 - **👔 Experience:** Internships at ThirdBridge, Autodesk, and Ubisoft Montréal.
+- **🏆 Awards & Involvements:** VP External at Google Developers Student Club @ McGill (400 active members), recipient of a 2'000 scholarship from Unifor, Winner of Best Hacks for Businesses @ McGill AI Society (MAIS) Hackathon.
 - **🌐 Social:** [LinkedIn](https://www.linkedin.com/in/parsa-langari/)
 
 ## Skills
@@ -14,7 +15,6 @@ Welcome to my GitHub! I'm Parsa, a Software Engineering student at McGill Univer
 - **Frameworks/Technologies:** Spring Boot, .NET, Flask, Apollo, React, React Native, Next.js.
 - **Tools:** Git, Docker, AWS, Azure, CI/CD Pipelines, Splunk, Datadog.
 - **Principles:** Clean Code, SOLID, Software Testing (Cucumber/Gherkin, Jest, Mocha).
-- **Awards & Involvements:** VP External at Google Developers Student Club @ McGill (400 active members), recipient of a 2'000 scholarship from Unifor, Winner of Best Hacks for Businesses @ McGill AI Society (MAIS) Hackathon.
 
 ## My GitHub Philosophy
 
