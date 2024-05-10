@@ -5,7 +5,7 @@ Hi! I'm Parsa, a Software Engineering student at McGill University, passionate a
 ## About Me
 
 - **🎓 Education:** B.Eng. in Software Engineering, McGill University, Expected Graduation May 2025.
-- **👔 Experience:** Internships at ThirdBridge, Autodesk, and Ubisoft Montréal.
+- **👔 Experience:** Internships at Cisco, Autodesk, Ubisoft, Pratt & Whitney and Thirdbridge.
 - **🌐 Social:** [LinkedIn](https://www.linkedin.com/in/parsa-langari/)
 
 ## Skills
