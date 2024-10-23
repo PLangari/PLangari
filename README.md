@@ -1,6 +1,5 @@
 # Parsa Langari
 
-Hi! I'm Parsa, a Software Engineering student at McGill University, passionate about building solutions.
 ![PLangari's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PLangari&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
 ## About Me
